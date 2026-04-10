@@ -2177,6 +2177,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18039420855",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18043256827",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3946,6 +3955,15 @@
           "distance": 58200.3,
           "elevation_gain": 231.0,
           "moving_time": 8399.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18043256827"
+          ],
+          "count": 1,
+          "distance": 37621.2,
+          "elevation_gain": 218.0,
+          "moving_time": 5347.0
         }
       },
       "Run": {
@@ -4273,7 +4291,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T15:37:13.463596+00:00",
+  "generated_at": "2026-04-10T15:21:33.323302+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143773164",
   "repo": "tryy3/git-sweaty",

@@ -2357,6 +2357,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18609291369",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 23,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18695091291",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4285,6 +4294,15 @@
           "distance": 2890.6,
           "elevation_gain": 0.0,
           "moving_time": 1179.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18695091291"
+          ],
+          "count": 1,
+          "distance": 2718.7,
+          "elevation_gain": 2.0,
+          "moving_time": 1282.0
         }
       },
       "VirtualRide": {
@@ -4601,7 +4619,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T16:29:09.635644+00:00",
+  "generated_at": "2026-05-29T16:21:19.686699+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143773164",
   "repo": "tryy3/git-sweaty",

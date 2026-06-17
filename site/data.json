@@ -2447,6 +2447,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18944706297",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 19,
+      "name": "Evening Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18946844858",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4174,12 +4183,13 @@
       "GravelRide": {
         "2026-06-16": {
           "activity_ids": [
-            "18944706297"
+            "18944706297",
+            "18946844858"
           ],
-          "count": 1,
-          "distance": 14379.6,
-          "elevation_gain": 98.0,
-          "moving_time": 2098.0
+          "count": 2,
+          "distance": 29098.300000000003,
+          "elevation_gain": 166.0,
+          "moving_time": 4289.0
         }
       },
       "Ride": {
@@ -4783,7 +4793,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T16:35:37.818761+00:00",
+  "generated_at": "2026-06-17T16:19:19.522424+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143773164",
   "repo": "tryy3/git-sweaty",

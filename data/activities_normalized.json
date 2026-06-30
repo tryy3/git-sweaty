@@ -3625,5 +3625,18 @@
     "start_date_local": "2026-06-28T10:39:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 43913.6,
+    "elevation_gain": 214.0,
+    "id": "19121966670",
+    "moving_time": 6704.0,
+    "name": "Lunch p\u00e5 Stikkans Pasta",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T10:44:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

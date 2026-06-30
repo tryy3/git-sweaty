@@ -2510,6 +2510,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19096265771",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 10,
+      "name": "Lunch p\u00e5 Stikkans Pasta",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19121966670",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4468,6 +4477,15 @@
           "distance": 39837.1,
           "elevation_gain": 242.0,
           "moving_time": 5768.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19121966670"
+          ],
+          "count": 1,
+          "distance": 43913.6,
+          "elevation_gain": 214.0,
+          "moving_time": 6704.0
         }
       },
       "Run": {
@@ -4903,7 +4921,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:20:56.641800+00:00",
+  "generated_at": "2026-06-30T15:55:02.740420+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143773164",
   "repo": "tryy3/git-sweaty",
